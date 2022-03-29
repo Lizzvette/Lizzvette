@@ -8,6 +8,5 @@
 
 - 📫 How to reach me: www.linkedin.com/in/lizziequaidoo
 
-- 😄 Pronouns: She/Her
 
 - ⚡
