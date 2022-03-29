@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Lizzvette/Lizzvette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on solo projects with use of bootstrap, react, and enjoying backend studies.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on React group projects. Interested in employment within Product/Project Management to Full Stack Development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m open to study groups.
+
+- 📫 How to reach me: www.linkedin.com/in/lizziequaidoo
+
+- 😄 Pronouns: She/Her
+
+- ⚡
